@@ -1,0 +1,10 @@
+C:\CIDM3312\MathCalculator\bin\MCD\Debug\netcoreapp2.0\MathCalculator.deps.json
+C:\CIDM3312\MathCalculator\bin\MCD\Debug\netcoreapp2.0\MathCalculator.runtimeconfig.json
+C:\CIDM3312\MathCalculator\bin\MCD\Debug\netcoreapp2.0\MathCalculator.runtimeconfig.dev.json
+C:\CIDM3312\MathCalculator\bin\MCD\Debug\netcoreapp2.0\MathCalculator.dll
+C:\CIDM3312\MathCalculator\bin\MCD\Debug\netcoreapp2.0\MathCalculator.pdb
+C:\CIDM3312\MathCalculator\obj\MCD\Debug\netcoreapp2.0\MathCalculator.csproj.CoreCompileInputs.cache
+C:\CIDM3312\MathCalculator\obj\MCD\Debug\netcoreapp2.0\MathCalculator.AssemblyInfoInputs.cache
+C:\CIDM3312\MathCalculator\obj\MCD\Debug\netcoreapp2.0\MathCalculator.AssemblyInfo.cs
+C:\CIDM3312\MathCalculator\obj\MCD\Debug\netcoreapp2.0\MathCalculator.dll
+C:\CIDM3312\MathCalculator\obj\MCD\Debug\netcoreapp2.0\MathCalculator.pdb
